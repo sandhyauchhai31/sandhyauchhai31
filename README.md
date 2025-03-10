@@ -1,6 +1,6 @@
 <h1>Hii 👋 I'm Sandhya Uchhai</h1>
 # 💫 About Me:
-"Full-stack developer skilled in React.js, Node.js, and MongoDB. Passionate about building scalable web applications and backend solutions."<br><br>Let me know if you'd like any tweaks! 😊
+"Full-stack developer skilled in React.js, Node.js, and MongoDB. Passionate about building scalable web applications and backend solutions. 😊"
 
 
 ## 🌐 Socials:
